@@ -12,7 +12,7 @@
 
 ## LINK TO Deployed App
 
--  [budget-trackers] (https://obscure-basin-36143.herokuapp.com/)
+-  [budget-trackers](https://obscure-basin-36143.herokuapp.com/)
 
 
 ## Screen-shot
